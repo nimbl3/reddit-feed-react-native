@@ -7,9 +7,9 @@ The is an example React Native app to get the Programming Feed from Reddit.
 
 2. Open your Emulator or Plug a real device to your computer
 
-3. Clone this repo and `cd RedditFeed`
+3. Clone this repo and `cd reddit-feed-react-native`
 
-4. Run `react-native run-android` if you want to run on Android, and run `react-native run-ios` if you want to run on iOS
+4. Run `react-native run-android` if you want to run on Android, or `react-native run-ios` if you want to run on iOS.
 
 [getting-started]: https://facebook.github.io/react-native/docs/getting-started.html
 
